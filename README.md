@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TerraDeFi
-- 👀 We are Building out a Terra Money Dashboard to display a wide array of Digital assets, NFTs and Terra DeFi Protocols that will be linked to The Terra Underground DAO Treasury Vault Wallet
+- 👀 We are Building out a Terra Money Dashboard to display a wide array of Digital assets, NFTs and Terra DeFi Protocols that will be linked to The Terra Underground Treasury Digital Assets
 
 
 
