@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TerraDeFi
-- 👀 We are Building out a SOL Dashboard to display digital assets that will be linked to The Sona Rebels DAO wallet
+- 👋 Hi, I’m @serr_jpg
+- 👀 We are Building out the FlightDeck Dashboard to display a wallets digital assets and useful NFT toolset for the Stargaze ecosystem.
 
 
 
