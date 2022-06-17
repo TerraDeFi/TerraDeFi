@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serr_jpg
-- 👀 We are Building out the FlightDeck Dashboard to display a wallets digital assets and useful NFT toolset for the Stargaze ecosystem.
+- 👀 We are Building out the FlightDeck Dashboard to display a wallets digital assets and a useful NFT toolset for the Stargaze ecosystem.
 
 
 
